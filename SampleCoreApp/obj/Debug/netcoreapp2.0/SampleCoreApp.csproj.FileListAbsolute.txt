@@ -1,0 +1,11 @@
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.deps.json
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.runtimeconfig.json
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.runtimeconfig.dev.json
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.dll
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.csprojResolveAssemblyReference.cache
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.csproj.CoreCompileInputs.cache
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.AssemblyInfoInputs.cache
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.AssemblyInfo.cs
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\bin\Debug\netcoreapp2.0\SampleCoreApp.pdb
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.dll
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\obj\Debug\netcoreapp2.0\SampleCoreApp.pdb

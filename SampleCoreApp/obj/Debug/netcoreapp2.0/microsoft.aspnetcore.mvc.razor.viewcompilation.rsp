@@ -1,0 +1,14 @@
+D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=SampleCoreApp
+--content-root=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\About.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\Contact.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\Error.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\Index.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\_Layout.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\_ValidationScriptsPartial.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\_ViewImports.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Pages\_ViewStart.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Views\Albums\Index.cshtml
+--file=D:\Roshni\DEVELOPING\Best 2017\FireSafety\SampleCoreApp\SampleCoreApp\Views\Shared\_ValidationScriptsPartial.cshtml
